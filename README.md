@@ -7,7 +7,7 @@
 
 ### My On Social Media.
 
-* [<img alt="Mr-cr4k's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Bintang SA</b>](https://www.facebook.com/100006322566573)<br />
+* [<img alt="Mr-cr4k's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Bintang SA</b>](https://www.facebook.com/profile.php?id=100006322566573)<br />
 * [<img alt="Mr-cr4k's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>bntg_xd</b>](https://www.instagram.com/bntg_xd/)<br />
 * [<img alt="Mr-cr4k's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>BNTGXCODE</b>](https://github.com/Mr-cr4k)<br />
 

@@ -1,7 +1,7 @@
 ### Hi ,Welcome..
 [![Code](https://res.cloudinary.com/dkb6qc4ui/image/upload/v1604296725/gh-header-image-cropped_vbb2qi.png)](https://github.com/Mr-cr4k)
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Mr-cr4k&show_icons=true&theme=radical alt=Mr-cr4k /> </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-cr4k&theme=radical&hide_langs_below=1" />
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Mr-cr4k&show_icons=true&theme=china alt=Mr-cr4k /> </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-cr4k&theme=light&hide_langs_below=1" />
 
 [![Code](https://res.cloudinary.com/dkb6qc4ui/image/upload/v1604293704/bntgxcode_nffjmb.jpg)](https://github.com/Mr-cr4k)
 

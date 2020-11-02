@@ -1,8 +1,8 @@
-### Hi I'am BNTGXCODE👤
+# Hi I'am BNTGXCODE👤
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Mr-cr4k&show_icons=true&theme=tokyonight alt=Mr-cr4k /> </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-cr4k&theme=dark&hide_langs_below=1" />
 
-### My On Social Media.
+## My On Social Media.
 
 * [<img alt="Mr-cr4k's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Bintang SA</b>](https://www.facebook.com/100006322566573)<br />
 * [<img alt="Mr-cr4k's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>bntg_xd</b>](https://www.instagram.com/bntg_xd/)<br />
